@@ -1,5 +1,5 @@
 # mpv-concept
-Just a concept.
+Concepts I'd love to see in mpv one day.
 ---
 * Audio Player
 ![concept](https://files.catbox.moe/5g237d.png)
